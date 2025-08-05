@@ -1,9 +1,10 @@
+
 ---
+
 ### 📌 **Problems Covered:**
 
-*  1 🔥 **Daily Temperatures** – Uses a **Monotonic Stack** to find the number of days until a warmer temperature.
-
-*  2  ⚡ **Next Greater Element I** – Combines **Stack** and **HashMap** to efficiently map each element to its next greater value in a second array.
+* 🔥 **Daily Temperatures** – Uses a **Monotonic Stack** to find the number of days until a warmer temperature.
+* ⚡ **Next Greater Element I** – Combines **Stack** and **HashMap** to efficiently map each element to its next greater value in a second array.
 
 ---
 
