@@ -1,7 +1,9 @@
 ### 📌 Problems Covered:
 
 🔥 **Daily Temperatures** – Uses a *Monotonic Stack* to find the number of days until a warmer temperature.
+
 ⚡ **Next Greater Element I** – Combines *Stack* and *HashMap* to map each element to its next greater value in a second array.
+
 🎯 **Two Sum II** – Utilizes the *Two Pointers* approach on a sorted array to find two numbers that add up to the target.
 
 ---
