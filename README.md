@@ -8,6 +8,8 @@
 
 💧 **Trapping Rain Water** – Solves with an *Optimal Two Pointers* approach to calculate total trapped water in `O(n)` time and `O(1)` space.
 
+➕ **Three Sum** – Uses sorting + *Two Pointers* to find all unique triplets that sum to zero, while skipping duplicates.
+
 ---
 
 ### 🛠️ **Techniques Used**
@@ -15,6 +17,7 @@
 * **Stack-based traversal** for optimizing brute force comparisons
 * **HashMap lookups** to quickly access relationships between elements
 * **Two Pointer shrink-and-scan** approach on sorted arrays and height maps
+* **Duplicate skipping** in sorted arrays to avoid redundant results
 * **Time and space complexity** optimization applied in all solutions
 
 ---
@@ -27,6 +30,7 @@
 ├── NextGreaterElement1.java     // Leetcode 496
 ├── TwoSumII.java                // Leetcode 167
 ├── TrappingRainWater.java       // Leetcode 42
+├── ThreeSum.java                // Leetcode 15
 ```
 
 ---
