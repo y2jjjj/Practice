@@ -30,7 +30,7 @@
 ├── NextGreaterElement1.java     // Leetcode 496
 ├── TwoSumII.java                // Leetcode 167
 ├── TrappingRainWater.java       // Leetcode 42
-├── ZeroFilledSubarrays.java     // Leetcode 2348
+├── ZeroFilledSubarrays.java     // Leetcode 2348 {Daily Problem}
 ```
 
 ---
